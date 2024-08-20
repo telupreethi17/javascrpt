@@ -1,0 +1,13 @@
+{
+    "url":"http://49.249.28.218:8081/AppServer/Hospital_Management_System/index.html",
+    "AdminName":"admin",
+    "AdminPwd":"Test@12345",
+    "patient_Usn":"preethit@gmail.com",
+    "patient_pwd":"1234567",
+    "doct_speci":"nephrologist",
+    "doct_name":"sekhar",
+    "doc_unm":"sekhar@gmail.com",
+    "doc_pwd":"1234567"
+
+
+}
